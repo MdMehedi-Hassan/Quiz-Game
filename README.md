@@ -4,7 +4,7 @@ Welcome to the Quiz Game! This is a fun and interactive quiz application designe
 
 ## Features
 
-- Multiple difficulty levels: Beginner, Intermediate, and Advanced.
+- Level: Beginner.
 - Various categories to choose from:
   - Physics
   - Chemistry
