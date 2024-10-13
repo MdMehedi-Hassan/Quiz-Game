@@ -85,7 +85,7 @@ def quiz_game():
     name = input("Please enter your name: ")
     print(f"Hello {name}! Let's start the quiz.")
 
-    levels = ["beginner", "intermediate", "advanced"]
+    levels = ["beginner"]
     categories = ["physics", "chemistry", "mathematics", "python programming", "general knowledge"]
 
     total_score = 0
